@@ -1,0 +1,151 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  body {
+    background-color:black;
+
+  }
+  
+  section {
+    position:absolute;
+    padding-top:100px;
+
+  }
+  
+  .container {
+    max-width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+  }
+  
+  .section-header {
+    margin-bottom: 50px;
+    text-align: center;
+    margin-left: 200px;
+  }
+  
+  .section-header h2 {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  .section-header p {
+    color: #FFF;
+    text-align:center;
+  }
+  
+  .row  {
+    display:flex;
+    align-items:center;
+   
+  }
+  
+  
+  .contact-info {
+    width: 50%;
+  }
+  
+  .contact-info-item {
+    display: flex;
+    margin-bottom: 40px;
+  }
+  
+  .contact-info-icon {
+    height: 70px;
+    width: 70px;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 50%;
+  }
+  
+  .contact-info-icon i {
+    font-size: 30px;
+    line-height: 70px;
+  }
+  
+  .contact-info-content {
+    margin-left: 20px;
+  }
+  
+  .contact-info-content h4 {
+    color: #49c1a2;
+    font-size: 1.4em;
+    margin-bottom: 5px;
+  }
+  
+  .contact-info-content p {
+    color: #FFF;
+    font-size: 1em;
+  }
+  /* login form */
+  .login-box {
+    width: 360px;
+    margin:auto;
+    border-radius: 3px;
+    background-color: white;
+  
+  }
+  h1 {
+    text-align: center;
+    padding-top: 15px;
+  }
+  
+  h4 {
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+  }
+  input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .para-2 {
+    text-align: center;
+    color:black;
+    font-size: 15px;
+    margin-top: -10px;
+  }
+  .para-2 a {
+    color: #49c1a2;
+  }
+  
+
+  
+  
+  
+ 

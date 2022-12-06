@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>real estate website</title>
+        <link rel="stylesheet" href="htmlcssproject.css">
+    </head>
+    <body>
+        <table border="10" width="750">
+            <th><img src="1.jpg"width="50"height="20"><a href="https://indianarmy.nic.in/Site/FormTemplete/frmTempSimple.aspx?MnId=XNcniYmPoXi2NnZvg9/vhA==&ParentID=2dO7UVOLw2DrihFiodjkRQ==">home</a></th>
+            <th><a href="https://www.nasa.gov/">about</a></th>
+            <th><a href="https://www.spacex.com/">contact</a></th>
+            <th><a href="https://www.blueorigin.com/">more</a></th>
+          </tr>
+          </table>
+
+    </body>
+    </html>
+
+        
